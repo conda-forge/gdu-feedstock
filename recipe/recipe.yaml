@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "5.34.1"
+  version: "5.34.2"
 
 package:
   name: gdu
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/dundee/gdu/archive/v${{ version }}.tar.gz
-  sha256: d6231f0411a4550b5aab5dd10691fe1c2a3f8ad2911f13706e2b79a0bff281ea
+  sha256: 3b120d232d9039d10f771cae4f61f4c0c5a8212f0b074cdd69ac55c28fa6ba9a
 
 build:
   number: 0
